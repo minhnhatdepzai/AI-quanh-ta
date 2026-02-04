@@ -1,0 +1,8 @@
+{
+  "name": "AI Quanh Ta",
+  "description": "A comprehensive AI portal featuring blogs, an AI-powered image editor with overlays and style transfer, and a multi-platform content generator.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
