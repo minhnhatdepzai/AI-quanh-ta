@@ -4,7 +4,7 @@ import BlogPage from './pages/BlogPage';
 import ImageToolPage from './pages/ImageToolPage';
 import ContentPage from './pages/ContentPage';
 import { Page } from './types';
-
+ 
 const App: React.FC = () => {
   const [activePage, setActivePage] = useState<Page>(Page.BLOG);
   const [darkMode, setDarkMode] = useState(false);
